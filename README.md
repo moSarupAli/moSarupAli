@@ -1,5 +1,5 @@
 ## Hi there 👋
-### I am Sarup, a Software Engineer
+### I am Sarup, a Frontend Engineer
 
 <!--
 **moSarupAli/moSarupAli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
